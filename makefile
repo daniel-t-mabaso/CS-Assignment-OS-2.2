@@ -1,7 +1,7 @@
 
 LIB = ../lib
 SRCDIR = src
-BINDIR = dishWashS
+BINDIR = ./
 TESTDIR = test
 DOCDIR = doc
 
